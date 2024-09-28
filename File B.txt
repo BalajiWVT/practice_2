@@ -1,3 +1,1 @@
 This file belongs to branch B
-
-Now I have done changes in Branch B
